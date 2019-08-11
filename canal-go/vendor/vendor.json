@@ -1,0 +1,24 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "uuLcVQXUw0CNt8Y5tsmzLWGlixI=",
+			"path": "github.com/golang/protobuf/proto",
+			"revision": "89a0c16f4dc2a70c0ed864d8ef64878f24fdaa51",
+			"revisionTime": "2018-08-04T22:03:15Z"
+		},
+		{
+			"path": "github.com/samuel/go-zookeeper",
+			"revision": "v0.0.0-20180130194729-c4fab1ac1bec",
+			"version": "v0.0.0-20180130194729-c4fab1ac1bec"
+		},
+		{
+			"checksumSHA1": "SmFf+59EK66c14r7pJ/I8bwqmV4=",
+			"path": "github.com/samuel/go-zookeeper/zk",
+			"revision": "0ceca61e4d75b92ab59d094a7502921aba0051a2",
+			"revisionTime": "2019-08-10T00:04:40Z"
+		}
+	],
+	"rootPath": "github.com/CanalClient/canal-go"
+}
